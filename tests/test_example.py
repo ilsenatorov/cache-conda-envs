@@ -1,5 +1,4 @@
 import pytest
-# tests
 
 def test_add():
     assert 4 + 8 == 12
